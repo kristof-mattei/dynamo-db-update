@@ -1,0 +1,15 @@
+{
+  "name": "dynamo-db-update",
+  "version": "0.0.0",
+  "description": "dynamo-db-update",
+  "main": "app.js",
+  "author": {
+    "name": "Kristof",
+    "email": ""
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1.17",
+    "joi": "^6.0.8",
+    "vogels": "^2.0.0-rc8"
+  }
+}
